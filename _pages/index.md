@@ -2,34 +2,8 @@
 layout: page
 title: Home
 id: home
+permalink: /
 ---
-
-<SCRIPT>
-function passWord() {
-var testV = 1;
-var pass1 = prompt('Denne siden krever et passord',' ');
-while (testV < 3) {
-if (!pass1)
-history.go(-1);
-if (pass1.toLowerCase() == "grodaas22") {
-window.open('index');
-break;
-}
-testV+=1;
-var pass1 =
-prompt('Feil passord','Password');
-}
-if (pass1.toLowerCase()!="password" & testV ==3)
-history.go(-1);
-return " ";
-}
-</SCRIPT>
-
-<CENTER>
-<FORM>
-<input type="button" value="Beskyttet område" onClick="passWord()">
-</FORM>
-</CENTER>
 
 # Welcome! 🌱
 
