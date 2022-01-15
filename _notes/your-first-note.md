@@ -7,6 +7,7 @@ title: Your first seed
 This is your first note. You'll find it in the [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory. 
 
 Vi legger en liten test på denne linja her for å se om dette fungerer bra! :D 
+Nå tester vi å linke opp en [[my new digital garden]]
 
 ### Link syntax
 
