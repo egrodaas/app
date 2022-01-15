@@ -7,3 +7,4 @@ title: profil
 | Yosmel | 46700764 | Skrog    | ![[3297 Yosmel.jpg]] |
 |        |          |          |                                     |
 
+![ 50]( 3297 Yosmel.jpg )
