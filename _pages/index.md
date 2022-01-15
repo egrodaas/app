@@ -15,7 +15,7 @@ if (!pass1)
 history.go(-1);
 if (pass1.toLowerCase() == "letmein") {
 alert('You Got it Right!');
-window.open('protectpage.html');
+window.open('index.md');
 break;
 }
 testV+=1;
@@ -27,6 +27,7 @@ history.go(-1);
 return " ";
 }
 </SCRIPT>
+
 <CENTER>
 <FORM>
 <input type="button" value="Enter Protected Area" onClick="passWord()">
