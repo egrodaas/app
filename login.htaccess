@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "Protected Site"
-AuthUserFile K:\Groadm\08 Team/.htpasswd
+AuthUserFile K:\Groadm\08 Team/pw.htpasswd
 require valid-user
