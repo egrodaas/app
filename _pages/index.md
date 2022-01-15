@@ -5,6 +5,15 @@ id: home
 permalink: /
 ---
 
+<?php
+session_start();
+if(!empty($_SESSION["userId"])) {
+    require_once './view/dashboard.php';
+} else {
+    require_once './view/login-form.php';
+}
+?>
+
 # Welcome! 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
