@@ -5,7 +5,6 @@ id: home
 permalink: /
 ---
 
-
 <SCRIPT>
 function passWord() {
 var testV = 1;
@@ -29,7 +28,7 @@ return " ";
 
 <CENTER>
 <FORM>
-<input type="button" value="Enter Protected Area" onClick="passWord()">
+<input type="button" value="Beskyttet område" onClick="passWord()">
 </FORM>
 </CENTER>
 
