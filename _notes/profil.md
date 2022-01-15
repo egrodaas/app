@@ -8,3 +8,5 @@ title: profil
 |        |          |          |                                     |
 
 ![ 50]( 3297 Yosmel.jpg )
+
+![[3297 Yosmel.jpg | #x-small ]]
