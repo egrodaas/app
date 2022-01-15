@@ -11,6 +11,6 @@ title: profil
 |        |          |          |                                                             |
 
 
-<iframe with="560" height="315" src="https://ekornes-my.sharepoint.com/:x:/g/personal/yosmel_chiang_stressless_com/EW4yBNjbjldHv16uLCdT03kBSABcsOp98Lx3z-bjH4LQsw?e=A4d9wI" />
+<iframe with="560" height="315" src="![[Team Grodås.xlsx]]" />
 
 
